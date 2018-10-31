@@ -1,0 +1,7 @@
+/node_modules
+/vendor/*
+.env
+.vscode
+composer.lock
+composer.bat
+composer.phar
