@@ -1,6 +1,9 @@
 # Let's TDD a Simple App in PHP
 A simple PHP project to learn TDD
 
+[My post in Medium about the code](https://medium.com/php-brasil/tdd-iniciando-com-tdd-no-php-934a0cc90e5b)
+
+
 ## Introduction
 Your task is to build Class called Wrapper and its method called wrap.
 
