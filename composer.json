@@ -1,7 +1,15 @@
 {
     "name": "eduardofg87/lets-tdd-a-simple-app",
     "description": "A simple PHP project to learn TDD",
+    "type": "library",
     "minimum-stability": "stable",
+    "license": "MIT",
+    "authors": [
+    {
+      "name": "Eduardo Figueiredo Gonçalves",
+      "email": "goncalves.ef@gmail.com"
+    }
+    ],
     "autoload": {
         "psr-4": {
             "App\\": "app/"
@@ -12,6 +20,7 @@
             "App\\Test\\": "tests/"
         }
     },
+    "version" : "v1.0",
     "require": {
         "php": ">=7.1.0"
     },
